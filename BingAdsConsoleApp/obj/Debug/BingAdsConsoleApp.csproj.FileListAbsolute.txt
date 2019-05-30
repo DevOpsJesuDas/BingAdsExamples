@@ -1,0 +1,133 @@
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsConsoleApp.exe.config
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsConsoleApp.exe
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsConsoleApp.pdb
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\netstandard.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.AppContext.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Collections.Concurrent.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Collections.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Collections.Specialized.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ComponentModel.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Console.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Data.Common.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.Process.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Drawing.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Globalization.Calendars.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Globalization.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Globalization.Extensions.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.Compression.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.FileSystem.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.Pipes.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Linq.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Linq.Expressions.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Linq.Parallel.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Linq.Queryable.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.Http.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.NameResolution.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.Ping.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.Requests.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.Security.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.Sockets.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Net.WebSockets.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ObjectModel.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Reflection.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Reflection.Extensions.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Reflection.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Resources.Reader.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Resources.Writer.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Extensions.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Handles.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Numerics.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Claims.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Principal.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.SecureString.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Text.Encoding.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.Overlapped.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.Tasks.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.Thread.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Threading.Timer.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ValueTuple.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Xml.XDocument.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Xml.XPath.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsExamplesLibrary.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\Microsoft.BingAds.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ServiceModel.Http.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsExamplesLibrary.pdb
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Debug\Microsoft.BingAds.pdb
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.exe.config
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.exe
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.pdb
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.csprojAssemblyReference.cache
+C:\Ashraf\Code\Bing API Code\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.csproj.CopyComplete
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsConsoleApp.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsExamplesLibrary.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\Microsoft.BingAds.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsExamplesLibrary.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\Microsoft.BingAds.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.AccessControl.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Permissions.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.Security.Principal.Windows.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ServiceModel.Http.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\System.ServiceModel.Primitives.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsExamplesLibrary.dll.config
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\Microsoft.BingAds.xml
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.csprojAssemblyReference.cache
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.exe.config
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.csproj.CoreCompileInputs.cache
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.exe
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsConsoleApp.exe.config
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Debug\BingAdsConsoleApp.exe
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Debug\BingAdsConsoleApp.csproj.CopyComplete

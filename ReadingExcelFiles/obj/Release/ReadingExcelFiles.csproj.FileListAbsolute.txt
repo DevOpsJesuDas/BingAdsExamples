@@ -1,0 +1,6 @@
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\ReadingExcelFiles\obj\Release\ReadingExcelFiles.csproj.CoreCompileInputs.cache
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\ReadingExcelFiles\bin\Release\ReadingExcelFiles.exe.config
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\ReadingExcelFiles\bin\Release\ReadingExcelFiles.exe
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\ReadingExcelFiles\bin\Release\ReadingExcelFiles.pdb
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\ReadingExcelFiles\obj\Release\ReadingExcelFiles.exe
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\ReadingExcelFiles\obj\Release\ReadingExcelFiles.pdb

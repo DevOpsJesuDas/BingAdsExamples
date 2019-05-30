@@ -1,0 +1,42 @@
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsConsoleApp.exe.config
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsConsoleApp.exe
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsConsoleApp.pdb
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsExamplesLibrary.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\Microsoft.BingAds.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Security.AccessControl.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Security.Permissions.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.ServiceModel.Http.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.ServiceModel.Primitives.dll
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsExamplesLibrary.pdb
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsExamplesLibrary.dll.config
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\Microsoft.BingAds.pdb
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\bin\Release\Microsoft.BingAds.xml
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.exe.config
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.csproj.CopyComplete
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.exe
+C:\Users\Jesu Das\Downloads\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\BingAds-dotNet-SDK-master\examples\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsConsoleApp.exe.config
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsConsoleApp.exe
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsConsoleApp.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsExamplesLibrary.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\Microsoft.BingAds.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Configuration.ConfigurationManager.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Security.AccessControl.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Security.Permissions.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.Security.Principal.Windows.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.ServiceModel.Http.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\System.ServiceModel.Primitives.dll
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsExamplesLibrary.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\BingAdsExamplesLibrary.dll.config
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\Microsoft.BingAds.pdb
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\bin\Release\Microsoft.BingAds.xml
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.csprojAssemblyReference.cache
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.exe.config
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.csproj.CoreCompileInputs.cache
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.csproj.CopyComplete
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.exe
+F:\AdWordsWorkingCode\BingAdsExamples\BingAdsConsoleApp\obj\Release\BingAdsConsoleApp.pdb
